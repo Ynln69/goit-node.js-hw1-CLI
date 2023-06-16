@@ -1,3 +1,3 @@
-# Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
+## Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
 
-![ node index.js --action="list" ](https://ibb.co/4RzkMfX)
+![ node index.js --action="list" ](./screenshots/show-all.png)
